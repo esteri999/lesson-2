@@ -1,0 +1,118 @@
+.main-baner-background {
+  width: 1240px;
+  height: 747px;
+  margin-left: 100px;
+  border: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 11px 11px rgba(140, 137, 168, 0.71);
+  box-shadow: 11px 11px 34px 0px rgba(140, 137, 168, 0.71);
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+}
+
+.baner-background-text {
+  width: 1408.46px;
+  height: 204.95px;
+  /* top: -70.9px; */
+  left: 20.67px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5px;
+  position: relative;
+}
+
+.baner-background-img {
+  position: relative;
+  width: 162.33px;
+  height: 78.29px;
+  top: -230px;
+  left: 17px;
+  gap: 0px;
+  opacity: 0px;
+  angle: 16 deg;
+}
+
+.main-shoes {
+  position: relative;
+  width: 780.37px;
+  height: 388.35px;
+  /* top: 287.64px;
+  left: -110px; */
+  gap: 0px;
+  opacity: 0px;
+  angle: 16.5 deg;
+  top: -220px;
+}
+
+.baner-background-img2 {
+  width: 173.67px;
+  height: 120px;
+  /* top: 819px; */
+  left: 21px;
+  gap: 0px;
+  opacity: 0px;
+  position: relative;
+}
+
+.text-container {
+  position: relative;
+  margin-left: 844px;
+  margin-top: -800px;
+  font-family: "Bebas Neue", sans-serif;
+  width: 433px;
+  height: 461px;
+  /* top: 238px;
+  left: 844px;
+  gap: 0px;
+  opacity: 0px; */
+}
+
+.text-container h2 {
+  /* width: 225.17px;
+  height: 35px;
+  top: 238px;
+  left: 844px;
+  gap: 0px;
+  opacity: 0px; */
+  font-size: 27.46px;
+  /* font-weight: 700;
+  line-height: 32.27px;
+  text-align: left; */
+  color: rgba(0, 0, 0, 1);
+  line-height: 32px;
+}
+
+.text-container h1 {
+  /* width: 422px;
+  height: 230.71px;
+  top: 272px;
+  left: 844px;
+  gap: 0px;
+  opacity: 0px; */
+  font-size: 98.26px;
+  /* font-weight: 400;
+  line-height: 117.92px;
+  text-align: left; */
+  color: rgba(0, 0, 0, 1);
+  line-height: 117px;
+}
+
+.text-container li {
+  font-size: 36px;
+  list-style: none;
+}
+
+.text-container img {
+}
+
+.text-container p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.8px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
